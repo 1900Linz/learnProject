@@ -1,8 +1,7 @@
 # learnProject
-learn days. including</br>
+learn days. including cpp、Qt、Cuda、VTK、CGAL，Every Example have a Auto-Test Example</br>
 [1]Cpp/Qt/Qml</br>
 ---DesignPatternProject 设计模式</br>
----Qml</br>
 </br>
 [2]Qt/QQuick</br>
 ---颜料盘控件</br>
