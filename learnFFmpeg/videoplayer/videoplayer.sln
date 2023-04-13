@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "videoplayer", "videoplayer\videoplayer.vcxproj", "{49C93F9B-60E9-4136-AF95-7EA5A5646DD2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "videoPlayTool", "videoPlayTool\videoPlayTool.vcxproj", "{57B6254A-DA2E-4DEF-8EF4-038DDB1F5CEA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jianxuTest", "jianxuTest\jianxuTest.vcxproj", "{264E47E3-C7E9-4FF6-BF0B-101B5BC78C53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +19,14 @@ Global
 		{49C93F9B-60E9-4136-AF95-7EA5A5646DD2}.Debug|x64.Build.0 = Debug|x64
 		{49C93F9B-60E9-4136-AF95-7EA5A5646DD2}.Release|x64.ActiveCfg = Release|x64
 		{49C93F9B-60E9-4136-AF95-7EA5A5646DD2}.Release|x64.Build.0 = Release|x64
+		{57B6254A-DA2E-4DEF-8EF4-038DDB1F5CEA}.Debug|x64.ActiveCfg = Debug|x64
+		{57B6254A-DA2E-4DEF-8EF4-038DDB1F5CEA}.Debug|x64.Build.0 = Debug|x64
+		{57B6254A-DA2E-4DEF-8EF4-038DDB1F5CEA}.Release|x64.ActiveCfg = Release|x64
+		{57B6254A-DA2E-4DEF-8EF4-038DDB1F5CEA}.Release|x64.Build.0 = Release|x64
+		{264E47E3-C7E9-4FF6-BF0B-101B5BC78C53}.Debug|x64.ActiveCfg = Debug|x64
+		{264E47E3-C7E9-4FF6-BF0B-101B5BC78C53}.Debug|x64.Build.0 = Debug|x64
+		{264E47E3-C7E9-4FF6-BF0B-101B5BC78C53}.Release|x64.ActiveCfg = Release|x64
+		{264E47E3-C7E9-4FF6-BF0B-101B5BC78C53}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
