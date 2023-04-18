@@ -31,6 +31,7 @@ namespace audioInfo
 
 	};
 
+#pragma pack(push,1) //设定字节对齐
 	struct  VIDEOPLAYTOOL_EXPORT fileInfo {
 		//@文件名
 		QString fileName; 
@@ -76,8 +77,9 @@ namespace audioInfo
 		//@有效性标识，默认false
 		bool vaild{ false };
 	};
+#pragma pack(pop) //恢复对其状态
 
-	class  VIDEOPLAYTOOL_EXPORT headFormat {
+	class  VIDEOPLAYTOOL_EXPORT headFormatInterface {
 		Q_OBJECT
 	public:
 		//@文档标识，大写"RIFF"
