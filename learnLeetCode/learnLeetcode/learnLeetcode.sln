@@ -7,8 +7,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1两数之和", "1两数之
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9回文数", "9回文数\9回文数.vcxproj", "{1DDE5696-B5BE-45A0-B120-79DEE33EA0A4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13罗马数字转整数romanToInt", "13罗马数字转整数romanToInt\13罗马数字转整数romanToInt.vcxproj", "{B0563AFC-2695-4E91-A5E7-408157D0A0C0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,14 +31,6 @@ Global
 		{1DDE5696-B5BE-45A0-B120-79DEE33EA0A4}.Release|x64.Build.0 = Release|x64
 		{1DDE5696-B5BE-45A0-B120-79DEE33EA0A4}.Release|x86.ActiveCfg = Release|x64
 		{1DDE5696-B5BE-45A0-B120-79DEE33EA0A4}.Release|x86.Build.0 = Release|x64
-		{B0563AFC-2695-4E91-A5E7-408157D0A0C0}.Debug|x64.ActiveCfg = Debug|x64
-		{B0563AFC-2695-4E91-A5E7-408157D0A0C0}.Debug|x64.Build.0 = Debug|x64
-		{B0563AFC-2695-4E91-A5E7-408157D0A0C0}.Debug|x86.ActiveCfg = Debug|x64
-		{B0563AFC-2695-4E91-A5E7-408157D0A0C0}.Debug|x86.Build.0 = Debug|x64
-		{B0563AFC-2695-4E91-A5E7-408157D0A0C0}.Release|x64.ActiveCfg = Release|x64
-		{B0563AFC-2695-4E91-A5E7-408157D0A0C0}.Release|x64.Build.0 = Release|x64
-		{B0563AFC-2695-4E91-A5E7-408157D0A0C0}.Release|x86.ActiveCfg = Release|x64
-		{B0563AFC-2695-4E91-A5E7-408157D0A0C0}.Release|x86.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
