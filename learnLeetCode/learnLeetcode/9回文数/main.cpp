@@ -4,7 +4,7 @@
 #define BASIC 0  //基础题解
 //力扣中国原题地址：https://leetcode.cn/problems/palindrome-number/
 //小镇做题迦博客传送门：https://blog.csdn.net/wellwillw?type=blog
-//本文链接：http://t.csdn.cn/QjkdV
+//本文链接：https://blog.csdn.net/wellwillw/article/details/130254375?spm=1001.2014.3001.5502
 class Solution {
 public:
     std::vector<int> X{};

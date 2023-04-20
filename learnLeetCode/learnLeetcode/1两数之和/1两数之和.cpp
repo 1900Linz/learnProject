@@ -3,6 +3,12 @@
 #include <vector>
 #include <algorithm>
 
+
+//基础题解
+//力扣中国原题地址：https://leetcode.cn/problems/two-sum/
+//小镇做题迦博客传送门：https://blog.csdn.net/wellwillw?type=blog
+//本文链接：https://blog.csdn.net/wellwillw/article/details/130223674?spm=1001.2014.3001.5502
+
 using namespace std;
 
 class Solution {
